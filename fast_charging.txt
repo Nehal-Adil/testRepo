@@ -1,0 +1,5 @@
+Smartphone batteries charge when a current passes through them. Greater current and higher voltages charge batteries faster, but there’s a limit to what they can take. The charge controller (IC) protects against dangerous spikes in current.
+
+The controller chip regulates the overall flow of electricity into and out of the battery. Generally speaking, lithium-ion controllers define the current (in amps) at which the battery charges by measuring the battery’s cell current and voltage and then adjusting the current flowing in. Some use a DC-to-DC converter to change the input voltage, and fancier integrated circuits adjust the resistance between the charger input and the battery terminal to ramp the current flow up or down.
+
+The amount of current the charge controller draws is generally dictated by the phone’s software.
